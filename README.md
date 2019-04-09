@@ -1,2 +1,2 @@
 # medicare_bigquery
-Exploring medicare datasets exported from Goodle BigQuery Public datasets
+Exploring medicare datasets exported from Google BigQuery Public datasets
